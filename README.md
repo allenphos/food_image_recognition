@@ -100,7 +100,8 @@ It does not:
 Classification errors also propagate directly into calorie estimates.
 
 ## Author
-
 Anastasia Alyoshkina  
-Applied Data Science  
-Noroff University College
+Applied Data Science graduate from Noroff University College
+
+- [LinkedIn ](https://www.linkedin.com/in/anastasiia-alyoshkina-68ba5929a/)
+- Email: anastasia.alshkn@gmail.com
